@@ -14,7 +14,7 @@
       </td>
     </tr>
   <tr>
-    <td align="center"><a href="topics/cicd/README.md"><img src="images/gitlab-logo.png" width="75px;" height="75px;" alt="GitLab"/><br /><b>GitLab</b></a></td>
+    <td align="center"><a href="topics/cicd/README.md"><img src="images/gitlab-logo.png" width="100px;" height="100px;" alt="GitLab"/><br /><b>GitLab</b></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="topics/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><a href="topics/containers/README.md"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Docker</b></a></td>
