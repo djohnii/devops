@@ -26,7 +26,7 @@
     <td align="center"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus/Grafana"/><br /><b>Prometheus/Grafana</b></a></td>
     <td align="center"><a href="topics/datadog/README.md"><img src="images/logos/datadog.png" width="80px;" height="80px;" alt="DataDog"/><br /><b></b></a></td>
     <td align="center"><a href="topics/argo/README.md"><img src="images/logos/argo.png" width="80px;" height="80px;" alt="Argo"/><br /><b>Argo</b></a></td>
-    <td align="center"><a href="topics/argo/README.md"><img src="images/jenkins.png" width="60px;" height="75px;" alt="Jenkins"/><br /><b>Argo</b></a></td>
+    <td align="center"><a href="topics/argo/README.md"><img src="images/jenkins.png" width="60px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
   </tr>
 <!-- Development -->
     <tr style="background-color: #7895c536;">
