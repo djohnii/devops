@@ -4,7 +4,6 @@
 <!-- markdownlint-disable -->
 <center>
 <table>
-
   <tr>
 <!-- DevOps -->
     <tr style="background-color: #7895c536;">
@@ -73,15 +72,6 @@
       <td align="center"><a href="#big-data"><img src="images/big-data.png" width="75px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
       <td align="center"><a href="#postgresql"><img src="images/postgre.png" width="75px;" height="75px;" alt="Postgresql"/><br /><b>Postgresql</b></a></td>
   </tr>
-
-  <tr>
-
-  </tr>
-
-  <tr>
-
-   </tr>
-   
 </table>
 </center>
 <!-- markdownlint-enable -->
