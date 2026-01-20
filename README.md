@@ -16,9 +16,9 @@
   <tr>
     <td align="center"><a href="topics/cicd/README.md"><img src="images/gitlab-logo.png" width="100px;" height="100px;" alt="GitLab"/><br /><b>GitLab</b></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
-    <td align="center"><a href="topics/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><a href="topics/containers/README.md"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Docker</b></a></td>
     <td align="center"><a href="topics/terraform/README.md"><img src="images/terraform.png" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+    <td align="center"><a href="topics/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
   </tr>
 <!-- New Line -->
   <tr>
@@ -26,7 +26,7 @@
     <td align="center"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus/Grafana"/><br /><b>Prometheus/Grafana</b></a></td>
     <td align="center"><a href="topics/datadog/README.md"><img src="images/logos/datadog.png" width="80px;" height="80px;" alt="DataDog"/><br /><b></b></a></td>
     <td align="center"><a href="topics/argo/README.md"><img src="images/logos/argo.png" width="80px;" height="80px;" alt="Argo"/><br /><b>Argo</b></a></td>
-    <td align="center"><a href="topics/argo/README.md"><img src="images/jenkins.png" width="60px;" height="75px;" alt="Argo"/><br /><b>Argo</b></a></td>
+    <td align="center"><a href="topics/argo/README.md"><img src="images/jenkins.png" width="60px;" height="75px;" alt="Jenkins"/><br /><b>Argo</b></a></td>
   </tr>
 <!-- Development -->
     <tr style="background-color: #7895c536;">
